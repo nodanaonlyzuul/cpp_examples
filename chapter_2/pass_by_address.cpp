@@ -15,6 +15,7 @@ int main (int argc, char const *argv[])
   cout << "&x = " << &x << endl;
   f(&x);
   cout << "x = "  << x  << endl;
+
   return 0;
 }
 
