@@ -9,6 +9,7 @@ int main (int argc, char const *argv[])
   string* point = &name;
 
   cout << "The address of name is " << (long)&name << endl;
+
   // count << point;
 
   *point = "John";
