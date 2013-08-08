@@ -4,7 +4,7 @@ using namespace std;
 int main (int argc, char const *argv[])
 {
   int a = 0;
-  int b = 0;
+  int b = 5;
 
   cout << "a = " << a << endl;
   cout << "b = " << b << endl;
